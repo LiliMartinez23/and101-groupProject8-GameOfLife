@@ -65,10 +65,12 @@ Required Feature
 
 ### [BONUS] Interactive Prototype
 <img 
-  src="https://raw.githubusercontent.com/LiliMartinez23/and101-groupProject8-GameOfLife/main/game-of-life-prototype.gif" 
+  src="game-of-life-prototype.gif" 
   alt="Game of Life prototype"
-  width="300"
+  width="250"
+  height="250"
 />
+
 
 ![GIF](https://github.com/LiliMartinez23/and101-groupProject8-GameOfLife/blob/main/game-of-life-prototype.gif)
 
