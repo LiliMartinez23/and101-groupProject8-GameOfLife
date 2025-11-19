@@ -66,7 +66,8 @@ Required Feature
 ## Wireframes
 
 ### [BONUS] Digital Wireframes & Mockups
-![conways-game-of-life-wireframe](https://hackmd.io/_uploads/SynlST9xWx.png)
+<img width="2675" height="1234" alt="Group 1" src="https://github.com/user-attachments/assets/45966315-09ab-427a-9a96-019ab1dbc51d" />
+
 
 ### [BONUS] Interactive Prototype
 
