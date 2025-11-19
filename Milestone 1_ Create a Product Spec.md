@@ -64,6 +64,12 @@ Required Feature
 <img width="2675" height="1234" alt="Group 1" src="https://github.com/user-attachments/assets/45966315-09ab-427a-9a96-019ab1dbc51d" />
 
 ### [BONUS] Interactive Prototype
+<img 
+  src="https://raw.githubusercontent.com/LiliMartinez23/and101-groupProject8-GameOfLife/main/game-of-life-prototype.gif" 
+  alt="Game of Life prototype"
+  width="300"
+/>
+
 ![GIF](https://github.com/LiliMartinez23/and101-groupProject8-GameOfLife/blob/main/game-of-life-prototype.gif)
 
 ## Build Notes
