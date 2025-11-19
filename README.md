@@ -1,1 +1,1 @@
-# and101-groupProject8-GameOfLife
+# Conway's Game of Life
