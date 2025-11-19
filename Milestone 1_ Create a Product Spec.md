@@ -1,8 +1,3 @@
----
-title: 'Milestone 1: Create a Product Spec'
-
----
-
 # **Conway's Game of Life**
 
 ## Table of Contents
