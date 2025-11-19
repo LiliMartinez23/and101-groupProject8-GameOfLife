@@ -70,7 +70,7 @@ Required Feature
 
 
 ### [BONUS] Interactive Prototype
-
+<img src="https://github.com/LiliMartinez23/and101-groupProject8-GameOfLife/blob/main/game-of-life-prototype.gif">
 ## Build Notes
 
 Here's a place for any other notes on the app, it's creation 
