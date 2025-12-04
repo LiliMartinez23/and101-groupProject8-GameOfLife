@@ -1,8 +1,3 @@
----
-title: 'Milestone 1: Create a Product Spec'
-
----
-
 # **Conway's Game of Life**
 
 ## Table of Contents
@@ -68,8 +63,8 @@ Required Feature
 ### [BONUS] Digital Wireframes & Mockups
 <img width="2675" height="1234" alt="Group 1" src="https://github.com/user-attachments/assets/45966315-09ab-427a-9a96-019ab1dbc51d" />
 
-
 ### [BONUS] Interactive Prototype
+<img src="game-of-life-prototype.gif" alt="Game of Life prototype" width="250" height="250" />
 
 ## Build Notes
 
